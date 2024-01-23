@@ -1,0 +1,12 @@
+{
+  "name": "ramdon-str-msg-jfspeed",
+  "version": "1.0.0",
+  "description": "Random striong Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Fredy Rodriguez <jfrodrizuga@gmail.com>",
+  "license": "MIT"
+}
